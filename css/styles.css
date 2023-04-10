@@ -187,9 +187,11 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 .hero-container {
-  height: 600px;
   display: flex;
   flex-direction: column;
   justify-content: center;
